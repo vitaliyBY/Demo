@@ -1,2 +1,2 @@
 # Demo
-My Demo/Tests
+My Demos/Tests
