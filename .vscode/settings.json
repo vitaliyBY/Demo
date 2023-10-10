@@ -10,9 +10,26 @@
             "server": "localhost",
             "port": 1433,
             "driver": "MSSQL",
-            "name": "sql2019",
+            "name": "master",
             "username": "sa",
+            "database": "master",
+            "password": "123qwe!@#QWE",
+            "group": "sql2019"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "demo",
+            "group": "sql2019",
             "database": "demo",
+            "username": "sa",
             "password": "123qwe!@#QWE"
         }
     ]

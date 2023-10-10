@@ -1,0 +1,3 @@
+DROP TABLE test;
+CREATE TABLE test (id BIGINT, name VARCHAR(255), ts TIMESTAMP);
+SELECT * FROM test;

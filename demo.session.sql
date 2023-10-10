@@ -1,0 +1,1 @@
+/home/vitaliy/Documents/Demo/SQL/demo.session.sql
